@@ -1,0 +1,15 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.pem
+*.zip
+
+.vscode/
+.idea/
+
+# __pycache__/
+# *.pyc
+
+# *.log
+# .DS_Store
